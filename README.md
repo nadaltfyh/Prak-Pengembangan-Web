@@ -51,6 +51,14 @@ Mobile
 
 ![image](https://user-images.githubusercontent.com/83103988/209571894-b9d433a0-f81b-46af-9f54-49024508f6fc.png)
 
+# Single Page App with React & React-router
+Single Page App
+![image](https://user-images.githubusercontent.com/83103988/209588569-475a0b04-e870-4cd9-8c9b-dcaf6ff7d2ec.png)
+
+# React Router
+![image](https://user-images.githubusercontent.com/83103988/209588587-d94fff32-48ea-404e-909c-49fa5ab125bd.png)
+
+
 
 
 
