@@ -27,10 +27,6 @@
 # Domain Registration
 ![image](https://user-images.githubusercontent.com/83103988/209564702-77a1f4d5-c8d9-4024-a805-ce76c2b3d6e2.png)
 
-# Responsive Design
-![image](https://user-images.githubusercontent.com/83103988/209567507-5873ac77-46fd-47c0-8fdd-810b50f9b6ab.png)
-![image](https://user-images.githubusercontent.com/83103988/209567601-c2e36284-1d57-497c-a550-5465f7e82f27.png)
-
 # Browser API
 ![image](https://user-images.githubusercontent.com/83103988/209569125-5a515316-b507-4aca-84e4-dc9f251c9dbd.png)
 
