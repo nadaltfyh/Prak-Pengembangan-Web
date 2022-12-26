@@ -38,6 +38,25 @@
 ![image](https://user-images.githubusercontent.com/83103988/209569382-481f4c3a-5030-4501-b045-64f80dee8e0b.png)
 ![image](https://user-images.githubusercontent.com/83103988/209569463-dfbfa863-a0d3-4991-9f24-e59087c5470c.png)
 
+# News Site using Wordpress
+![image](https://user-images.githubusercontent.com/83103988/209571255-3dae3c90-b094-4fcd-b27e-d95e5f76bd55.png)
+
+# CPanel
+![image](https://user-images.githubusercontent.com/83103988/209571364-33f5e99c-6a76-4330-b4f3-6262306099ed.png)
+
+# Linux Server Operation
+![image](https://user-images.githubusercontent.com/83103988/209571442-3252dc5d-7e44-4ad4-abdd-4926310f07d4.png)
+
+# HTML Responsive Layout with Bootstrap
+Desktop
+![image](https://user-images.githubusercontent.com/83103988/209571764-f3d69ec4-4faa-4b8c-9a66-eed20fc7e769.png)
+Mobile
+![image](https://user-images.githubusercontent.com/83103988/209571894-b9d433a0-f81b-46af-9f54-49024508f6fc.png)
+
+
+
+
+
 
 
 
