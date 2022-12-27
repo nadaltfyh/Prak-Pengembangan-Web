@@ -65,6 +65,10 @@ React Router
 # Javascript Data Transformation
 ![image](https://user-images.githubusercontent.com/83103988/209651701-5c512bf0-c33b-499f-8342-36e5272b6985.png)
 
+# PHP & Composer installation
+![image](https://user-images.githubusercontent.com/83103988/209658693-88381271-9b5e-44d0-8a4c-6a095a909c72.png)
+
+
 
 
 
